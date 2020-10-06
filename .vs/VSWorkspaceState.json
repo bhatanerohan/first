@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\public",
-    "\\src"
+    "\\public\\assets",
+    "\\src",
+    "\\src\\components",
+    "\\src\\shared"
   ],
-  "SelectedNode": "\\src\\index.js",
+  "SelectedNode": "\\src\\components\\menucomponent.js",
   "PreviewInSolutionExplorer": false
 }
